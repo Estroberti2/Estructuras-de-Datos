@@ -1,0 +1,6 @@
+C:\Program Files (x86)\ProyectosSharp2\Heap\EjercicioEntrega\obj\Debug\EjercicioEntrega.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\ProyectosSharp2\Heap\EjercicioEntrega\bin\Debug\EjercicioEntrega.exe.config
+C:\Program Files (x86)\ProyectosSharp2\Heap\EjercicioEntrega\bin\Debug\EjercicioEntrega.exe
+C:\Program Files (x86)\ProyectosSharp2\Heap\EjercicioEntrega\bin\Debug\EjercicioEntrega.pdb
+C:\Program Files (x86)\ProyectosSharp2\Heap\EjercicioEntrega\obj\Debug\EjercicioEntrega.exe
+C:\Program Files (x86)\ProyectosSharp2\Heap\EjercicioEntrega\obj\Debug\EjercicioEntrega.pdb

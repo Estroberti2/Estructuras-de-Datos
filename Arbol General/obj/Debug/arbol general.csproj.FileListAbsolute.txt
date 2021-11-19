@@ -1,0 +1,6 @@
+C:\Users\almma\Desktop\arbol general\bin\Debug\arbol general.exe.config
+C:\Users\almma\Desktop\arbol general\bin\Debug\arbol general.exe
+C:\Users\almma\Desktop\arbol general\bin\Debug\arbol general.pdb
+C:\Users\almma\Desktop\arbol general\obj\Debug\arbol general.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\arbol general\obj\Debug\arbol general.exe
+C:\Users\almma\Desktop\arbol general\obj\Debug\arbol general.pdb

@@ -1,0 +1,12 @@
+C:\Users\almma\Desktop\Dijktra\bin\Debug\Dijktra.exe.config
+C:\Users\almma\Desktop\Dijktra\bin\Debug\Dijktra.exe
+C:\Users\almma\Desktop\Dijktra\bin\Debug\Dijktra.pdb
+C:\Users\almma\Desktop\Dijktra\obj\Debug\Dijktra.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Dijktra\obj\Debug\Dijktra.exe
+C:\Users\almma\Desktop\Dijktra\obj\Debug\Dijktra.pdb
+D:\Documentos\Renzo\UNAJ\CTEDyA\Dijktra\bin\Debug\Dijktra.exe.config
+D:\Documentos\Renzo\UNAJ\CTEDyA\Dijktra\bin\Debug\Dijktra.exe
+D:\Documentos\Renzo\UNAJ\CTEDyA\Dijktra\bin\Debug\Dijktra.pdb
+D:\Documentos\Renzo\UNAJ\CTEDyA\Dijktra\obj\Debug\Dijktra.csprojResolveAssemblyReference.cache
+D:\Documentos\Renzo\UNAJ\CTEDyA\Dijktra\obj\Debug\Dijktra.exe
+D:\Documentos\Renzo\UNAJ\CTEDyA\Dijktra\obj\Debug\Dijktra.pdb

@@ -1,0 +1,6 @@
+C:\Users\almma\Desktop\Arbol Binario AVL\bin\Debug\Arbol Binario AVL.exe.config
+C:\Users\almma\Desktop\Arbol Binario AVL\bin\Debug\Arbol Binario AVL.exe
+C:\Users\almma\Desktop\Arbol Binario AVL\bin\Debug\Arbol Binario AVL.pdb
+C:\Users\almma\Desktop\Arbol Binario AVL\obj\Debug\Arbol Binario AVL.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Arbol Binario AVL\obj\Debug\Arbol Binario AVL.exe
+C:\Users\almma\Desktop\Arbol Binario AVL\obj\Debug\Arbol Binario AVL.pdb

@@ -1,0 +1,6 @@
+C:\Users\almma\Desktop\Arbol Binario de Busqueda (ABB)\obj\Debug\Arbol Binario de Busqueda (ABB).csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Arbol Binario de Busqueda (ABB)\bin\Debug\Arbol Binario de Busqueda (ABB).exe.config
+C:\Users\almma\Desktop\Arbol Binario de Busqueda (ABB)\bin\Debug\Arbol Binario de Busqueda (ABB).exe
+C:\Users\almma\Desktop\Arbol Binario de Busqueda (ABB)\bin\Debug\Arbol Binario de Busqueda (ABB).pdb
+C:\Users\almma\Desktop\Arbol Binario de Busqueda (ABB)\obj\Debug\Arbol Binario de Busqueda (ABB).exe
+C:\Users\almma\Desktop\Arbol Binario de Busqueda (ABB)\obj\Debug\Arbol Binario de Busqueda (ABB).pdb

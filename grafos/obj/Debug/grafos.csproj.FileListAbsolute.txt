@@ -1,0 +1,18 @@
+C:\Users\almma\Desktop\grafos\obj\Debug\grafos.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\grafos\bin\Debug\grafos.exe.config
+C:\Users\almma\Desktop\grafos\bin\Debug\grafos.exe
+C:\Users\almma\Desktop\grafos\bin\Debug\grafos.pdb
+C:\Users\almma\Desktop\grafos\obj\Debug\grafos.exe
+C:\Users\almma\Desktop\grafos\obj\Debug\grafos.pdb
+C:\Users\almma\Desktop\Nueva carpeta\grafos\bin\Debug\grafos.exe.config
+C:\Users\almma\Desktop\Nueva carpeta\grafos\bin\Debug\grafos.exe
+C:\Users\almma\Desktop\Nueva carpeta\grafos\bin\Debug\grafos.pdb
+C:\Users\almma\Desktop\Nueva carpeta\grafos\obj\Debug\grafos.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\Nueva carpeta\grafos\obj\Debug\grafos.exe
+C:\Users\almma\Desktop\Nueva carpeta\grafos\obj\Debug\grafos.pdb
+D:\Documentos\Renzo\UNAJ\CTEDyA\grafos\bin\Debug\grafos.exe.config
+D:\Documentos\Renzo\UNAJ\CTEDyA\grafos\bin\Debug\grafos.exe
+D:\Documentos\Renzo\UNAJ\CTEDyA\grafos\bin\Debug\grafos.pdb
+D:\Documentos\Renzo\UNAJ\CTEDyA\grafos\obj\Debug\grafos.csprojResolveAssemblyReference.cache
+D:\Documentos\Renzo\UNAJ\CTEDyA\grafos\obj\Debug\grafos.exe
+D:\Documentos\Renzo\UNAJ\CTEDyA\grafos\obj\Debug\grafos.pdb
